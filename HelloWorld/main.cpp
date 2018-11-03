@@ -7,9 +7,11 @@
 //
 
 #include <iostream>
+#include <stdio.h>
 
 int main(int argc, const char * argv[]) {
     // insert code here...
     std::cout << "Hello, World!\n";
+    printf("Hello world with prinft\n");
     return 0;
 }
